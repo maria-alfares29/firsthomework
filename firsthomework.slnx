@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="firsthomework/firsthomework.csproj" />
+  <Project Path="seedData/seedData.csproj" />
+</Solution>
